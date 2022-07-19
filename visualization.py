@@ -2,9 +2,6 @@ import streamlit as st
 import pandas as pd
 import re
 import time
-import plotly.express as px
-import plotly.graph_objects as go
-from IPython.core.display import display, HTML
 
 #PAGE###########################################################################
 st.set_page_config(page_title='Tugas Akhir',layout="wide",
